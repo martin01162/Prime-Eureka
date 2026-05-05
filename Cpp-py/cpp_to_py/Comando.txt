@@ -1,0 +1,3 @@
+g++ example.cpp -O3 -shared -std=c++17 -o example.pyd -IC:\Users\marti\AppData\Local\Python\pythoncore-3.14-64\Include -IC:\Users\marti\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\pybind11\include -LC:\Users\marti\AppData\Local\Python\pythoncore-3.14-64\libs -lpython314
+
+(Cambia el marti por tu user)

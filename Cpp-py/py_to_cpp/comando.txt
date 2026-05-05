@@ -1,0 +1,3 @@
+g++ main.cpp -O3 -std=c++17 -IC:\Users\marti\AppData\Local\Python\pythoncore-3.14-64\Include -IC:\Users\marti\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\pybind11\include -LC:\Users\marti\AppData\Local\Python\pythoncore-3.14-64\libs -lpython314 -o main.exe
+
+(cambia marti por tu usuario, tmb en el codigo de c++)
